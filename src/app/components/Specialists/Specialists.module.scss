@@ -1,0 +1,27 @@
+.wrapper{
+  width: 1140px;
+  background: #1B1F29;
+  color: #FEFEFE;
+  height: 469px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  box-sizing: border-box;
+}
+.title{
+  text-align: center;
+  font-size: 40px;
+}
+.textWrapper{
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+}
+.text{
+  width: 20%;
+  text-align: center;
+}
+.paragraphFirst,.paragraphSecond{
+  font-weight: 300;
+  font-size: 30px;
+}
