@@ -1,8 +1,8 @@
 'use client'
 import React from 'react';
-import Banner from '@/app/components/Banner/Banner';
-import Specialists from '@/app/components/Specialists/Specialists';
-import Services from '@/app/components/Services/Services';
+import Banner from '@/app/components/MainPage/Banner/Banner';
+import Specialists from '@/app/components/MainPage/Specialists/Specialists';
+import Services from '@/app/components/MainPage/Services/Services';
 import classes from './page.module.scss';
 import { useState } from 'react';
 interface titleParams {
